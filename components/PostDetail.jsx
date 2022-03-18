@@ -1,6 +1,6 @@
 import React from 'react'
 
-const PostDetail = () => {
+const PostDetail = ({post}) => {
   return (
     <div>
         <h1>PostDetail</h1>
