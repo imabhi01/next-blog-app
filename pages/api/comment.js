@@ -11,7 +11,6 @@
 // ) {
 //   res.status(200).json({ name: 'John Doe' })
 // }
-
 import { GraphQLClient, gql } from 'graphql'
 import { GraphQLClient } from 'graphql-request'
 
